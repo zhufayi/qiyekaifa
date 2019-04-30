@@ -1,17 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f2581cfd-b0d1-44f0-8cd8-e8fd1ce34e58" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/qiyekaifa.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/qiyekaifa/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/qiyekaifa/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/qiyekaifa/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/qiyekaifa/wsgi.py" afterDir="false" />
+    <list default="true" id="f2581cfd-b0d1-44f0-8cd8-e8fd1ce34e58" name="Default Changelist" comment="创建Django项目">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,7 +14,7 @@
     <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/qiyekaifa/settings.py">
           <provider selected="true" editor-type-id="text-editor" />
@@ -45,6 +36,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="21216edf-352a-445f-a22f-2d83e6860aad" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -53,7 +52,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="4">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="992" />
     <option name="y" value="24" />
     <option name="width" value="927" />
@@ -142,22 +141,31 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1556589019792</updated>
-      <workItem from="1556589036960" duration="1143000" />
+      <workItem from="1556589036960" duration="2669000" />
     </task>
+    <task id="LOCAL-00001" summary="创建Django项目">
+      <created>1556590224294</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1556590224295</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1143000" />
+    <option name="totallyTimeSpent" value="2669000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="992" y="24" width="927" height="1056" extended-state="4" />
+    <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15849487" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.07700831" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Version Control" weight="0.32958034" />
       <window_info anchor="bottom" id="Python Console" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
@@ -177,6 +185,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="创建Django项目" />
+    <option name="LAST_COMMIT_MESSAGE" value="创建Django项目" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/qiyekaifa/settings.py">
